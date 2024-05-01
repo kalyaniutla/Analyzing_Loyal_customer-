@@ -4,12 +4,15 @@ Project Title: Customer Subscription Prediction Using Logistic Regression and De
 •	Description: This project aims to predict whether a customer will subscribe to a service based on various demographic and behavioral features.
 •	Language and Libraries: Python 3, Jupyter Notebook, Pandas, NumPy, scikit-learn.
 
-2. Data Collection and Preprocessing:
+![image](https://github.com/kalyaniutla/Analyzing_Loyal_customer-/assets/167401916/ebea8c92-a6b5-48f5-bffe-baf337104650)
+
+
+3. Data Collection and Preprocessing:
 •	Data Source: Dataset obtained from [source].
 •	Features: Features include age, gender, income, past subscription history, etc.
 •	Preprocessing: Data cleaning, handling missing values, encoding categorical variables using one-hot encoding.
 
-3. Exploratory Data Analysis (EDA):
+4. Exploratory Data Analysis (EDA):
 •	Statistical Analysis: Descriptive statistics, correlation analysis.
 •	Visualization: Histograms, box plots, scatter plots to understand data distribution and relationships.
 •	Libraries Used: Pandas, Matplotlib, Seaborn.
